@@ -1,0 +1,28 @@
+01. Baseado no Diagrama de Classe da Figura 1, crie todos os atributos e 
+métodos, lembrando que: 
+a) O método bonificação deve acrescentar 10% ao valor do salário;  
+b) Para o construtor sem argumentos todos os valores devem ser 
+inicializados em branco ou igual a zero; 
+c) Teste os métodos implementados; 
+d) Faça um método dentro da função main que imprima todos os dados de 
+cada objeto e a bonificação. 
+02. Baseado no Diagrama de Classe da Figura 2, crie todos os atributos 
+e métodos, lembrando que: 
+a) O método módulo retorna o módulo do argumento real e imaginário; 
+b) O método argumento retorna o ângulo existente entre a componente 
+real e imaginária; 
+c) O método soma retorna a soma entre dois números complexos(a e b); 
+d) O método subtração retorna a subtração entre dois números 
+complexos(a e b); 
+e) O método printComplexo imprime os valores dos atributos da classe; 
+f) Teste os métodos implementados; 
+03. Baseado no Diagrama de Classe da Figura 3, crie todos os 
+atributos e métodos, lembrando que: 
+a) O método deposita aumenta o valor do saldo conforme especificado; 
+b) O método rendimento deve acrescentar 5% ao valor do saldo; 
+c) O método saque subtrai do saldo o valor informado. Caso não haja 
+saldo a operação na deve ser realizada informando ao usuário que o 
+saldo é indisponível. 
+d) Para o construtor sem argumentos todos os valores devem ser 
+inicializados em branco ou igual a zero; 
+e) Teste os métodos implementados;
